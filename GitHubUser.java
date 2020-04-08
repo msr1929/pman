@@ -1,5 +1,6 @@
 package com.srini.App32;
 
+// A pojo class for GitHubUser
 public class GitHubUser {
     private String login;
     private int id;
